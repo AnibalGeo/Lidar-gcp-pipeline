@@ -1,0 +1,4 @@
+ Status:
+   - Repository: europe-west1-docker.pkg.dev/geomatica-portfolio/lidar-tool-repo
+   - Image: lidar-worker:v1
+   - Digest: sha256:3989e7ab903272c96c381a93e17eb64399ad10d25f05db88d2b29aa1777b7ed7

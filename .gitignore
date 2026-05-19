@@ -1,0 +1,24 @@
+# Datos pesados
+*.laz
+*.las
+*.tif
+*.tiff
+
+# Temporales
+temp_run.json
+__pycache__/
+*.pyc
+
+# Secrets
+*.key
+.env
+*-key.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Terraform state
+*.tfstate
+*.tfstate.*
+.terraform/
